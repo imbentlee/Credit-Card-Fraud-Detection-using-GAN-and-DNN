@@ -19,4 +19,4 @@ Alternatively, you can change the code in code cell 3 of the .ipynb file from 'd
 3. Once the file completes its run a Streamlit web application should popup in your browser where you can test the application using the csv files created through the Jupyter Notebook
 4. If the web application does not run, simply run the 'fraud_app.py' file via the terminal.
 
-### Download and open the 'Credit-Card-Fraud-Detection-using-GAN-and-DNN.html' file on your browser to see the expected result after running the Jupyter Notebook.
+*Download and open the 'Credit-Card-Fraud-Detection-using-GAN-and-DNN.html' file on your browser to see the expected result after running the Jupyter Notebook.
